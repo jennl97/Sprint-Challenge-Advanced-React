@@ -31,3 +31,23 @@
     transform: rotate(360deg);
   }
 }
+
+.app{
+  margin-top: 30px;
+}
+
+.dataCard{
+  margin: auto;
+  width: 50%;
+  text-align: center;
+  background-color: #333F6E;
+  color: white;
+  padding: 10px;
+  border-radius: 15px;
+ 
+}
+
+.dark-mode {
+  color: #fff;
+  background-color: #313843;
+}
